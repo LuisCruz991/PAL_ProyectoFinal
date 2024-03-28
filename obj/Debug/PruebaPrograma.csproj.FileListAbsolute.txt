@@ -1,0 +1,13 @@
+C:\Users\greni\source\repos\PruebaPrograma\bin\Debug\PruebaPrograma.exe.config
+C:\Users\greni\source\repos\PruebaPrograma\bin\Debug\PruebaPrograma.exe
+C:\Users\greni\source\repos\PruebaPrograma\bin\Debug\PruebaPrograma.pdb
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.csproj.AssemblyReference.cache
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.Menu.resources
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.Properties.Resources.resources
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.csproj.GenerateResource.cache
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.exe
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.pdb
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.Inicio.resources
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.Angulos.resources
+C:\Users\greni\source\repos\PruebaPrograma\obj\Debug\PruebaPrograma.Herencia.resources
