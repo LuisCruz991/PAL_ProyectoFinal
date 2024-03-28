@@ -1,0 +1,99 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: Carolina
+ * Date: 26/3/2024
+ * Time: 21:40
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace creditos
+{
+   
+public class Programador
+{
+    private string nombre;
+    private string apellido;
+    private string rutaFoto;
+
+    public Programador(string nombre, string apellido, string rutaFoto)
+    {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.rutaFoto = rutaFoto;
+    }
+
+    public string Nombre
+    {
+        get { return nombre; }
+        set { nombre = value; }
+    }
+
+    public string Apellido
+    {
+        get { return apellido; }
+        set { apellido = value; }
+    }
+
+    public string RutaFoto
+    {
+        get { return rutaFoto; }
+        set { rutaFoto = value; }
+    }
+}
+
+
+public class Pantalla
+{
+    private List<Programador> programadores;
+    private ListBox listaNombres;
+    private Panel panelFoto;
+
+    public Pantalla()
+    {
+        
+        programadores = new List<Programador>();
+
+        
+        LeerDatosCSV("programadores.csv", programadores);
+
+       
+        programadores.Sort((p1, p2) => p1.Nombre.CompareTo(p2.Nombre));
+
+        
+        listaNombres = new ListBox();
+        panelFoto = new Panel();
+
+       
+        foreach (Programador programador in programadores)
+        {
+            listaNombres.Items.Add(programador.Nombre + " " + programador.Apellido);
+        }
+
+        
+        listaNombres.SelectedIndexChanged += (sender, e) =>
+        {
+            if (listaNombres.SelectedIndex != -1)
+            {
+                MostrarFoto(programadores[listaNombres.SelectedIndex].RutaFoto);
+            }
+        };
+    }
+
+    private void MostrarFoto(string rutaFoto)
+    {
+       
+    }
+}
+
+
+public static List<Programador> LeerDatosCSV(string archivo)
+{
+    
+}
+
+Pantalla pantalla = new Pantalla();
+pantalla.ShowDialog();
+}
+		
