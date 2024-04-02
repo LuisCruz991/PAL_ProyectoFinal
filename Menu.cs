@@ -53,5 +53,20 @@ namespace PruebaPrograma
         {
             MantenerFormularioFijo(new Herencia());
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MantenerFormularioFijo(new ReglaKramer());
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MantenerFormularioFijo(new Creditos());
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MantenerFormularioFijo(new Banco());
+        }
     }
 }
