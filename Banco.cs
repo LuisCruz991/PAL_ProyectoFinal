@@ -19,7 +19,7 @@ namespace PruebaPrograma
         }
 
         //Declaracion de variables
-        int monto, cien, veinte, diez, cinco, uno, nmonto, total;
+        int monto, cien, veinte, diez, cinco, uno, total;
 
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
@@ -34,10 +34,10 @@ namespace PruebaPrograma
                 uno = (monto - ((cien * 100) + (veinte * 20) + (diez * 10) + (cinco * 5))) / 1;
                 total = (cien * 100) + (veinte * 20) + (diez * 10) + (cinco * 5) + uno;
                 Txt100.Text = ($"" + cien);
-                Txt20.Text = $"" + veinte;
+                Txt20.Text = ($"" + veinte);
                 Txt10.Text = ($"" + diez);
                 Txt5.Text = ($"" + cinco);
-                Txt1.Text = ($""+ uno);
+                Txt1.Text = ($"" + uno);
                 TxtTotal.Text = ("$" + total); 
             }
             else
