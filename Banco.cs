@@ -57,6 +57,7 @@ namespace PruebaPrograma
                 Txt5.Text = $"";
                 Txt1.Text = $"";
                 TxtTotal.Text = $"";
+                MessageBox.Show("Se han limpiado los datos correctamente", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

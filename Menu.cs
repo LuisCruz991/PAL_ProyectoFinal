@@ -19,7 +19,7 @@ namespace PruebaPrograma
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            timer1.Enabled = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -28,7 +28,7 @@ namespace PruebaPrograma
             {
                 Inicio ventana = new Inicio();
                 ventana.Show();
-                this.Hide();
+                this.Close();
             }
         }
 
@@ -45,7 +45,7 @@ namespace PruebaPrograma
         }
 
         private void Btn1_Click(object sender, EventArgs e)
-        {
+        { 
             MantenerFormularioFijo(new Angulos());
         }
 
@@ -67,6 +67,22 @@ namespace PruebaPrograma
         private void button1_Click_1(object sender, EventArgs e)
         {
             MantenerFormularioFijo(new Banco());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MantenerFormularioFijo(new Orden_Num());
+        }
+
+        private void PanelBase_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            LblHora.Text = DateTime.Now.ToString("hh:mm:ss");
+            LblFecha.Text = DateTime.Now.ToLongDateString();
         }
     }
 }

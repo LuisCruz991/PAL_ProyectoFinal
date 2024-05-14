@@ -27,3 +27,4 @@ C:\source\repos\PAL_ProyectoFinal\obj\Debug\PruebaPrograma.exe
 C:\source\repos\PAL_ProyectoFinal\obj\Debug\PruebaPrograma.pdb
 C:\source\repos\PAL_ProyectoFinal\obj\Debug\PruebaPrograma.Creditos.resources
 C:\source\repos\PAL_ProyectoFinal\obj\Debug\PruebaPrograma.Banco.resources
+C:\source\repos\PAL_ProyectoFinal\obj\Debug\PruebaPrograma.Orden_Num.resources

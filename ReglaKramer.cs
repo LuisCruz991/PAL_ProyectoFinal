@@ -72,6 +72,7 @@ namespace PruebaPrograma
                 txtC2.Clear();
                 TxtSolucionX.Text = "";
                 TxtSolucionY.Text = "";
+                MessageBox.Show("Se han limpiado los datos correctamente", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

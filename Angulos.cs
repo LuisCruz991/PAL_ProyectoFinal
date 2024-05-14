@@ -17,6 +17,8 @@ namespace PruebaPrograma
             InitializeComponent();
         }
 
+        double catetoMenor, catetoMayor;
+
         private void LblEnunciado_Click(object sender, EventArgs e)
         {
 
@@ -24,7 +26,6 @@ namespace PruebaPrograma
 
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
-            double catetoMenor, catetoMayor;
             if (double.TryParse(txtCatetoMenor.Text, out catetoMenor) && double.TryParse(txtCatetoMayor.Text, out catetoMayor))
             {
                 double anguloC = Math.Atan(catetoMenor / catetoMayor) * (180 / Math.PI);
@@ -33,7 +34,7 @@ namespace PruebaPrograma
 
                 TxtAnguloC.Text = $"" + Math.Round(anguloC, 2) + "°";
                 TxtAnguloB.Text = $"" + Math.Round(anguloB, 2) + "°";
-                TxtHipotenusa.Text = $"" +Math.Round(hipotenusa, 2) + "°";
+                TxtHipotenusa.Text = $"" + Math.Round(hipotenusa, 2) + "°";
 
                 // Dibujar el triángulo rectángulo
                 Graphics g = this.CreateGraphics();
@@ -44,7 +45,6 @@ namespace PruebaPrograma
             }
             else
             {
-
                 MessageBox.Show("No hay datos ingresados", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
@@ -78,6 +78,7 @@ namespace PruebaPrograma
                 TxtAnguloC.Text = "";
                 TxtAnguloB.Text = "";
                 TxtHipotenusa.Text = "";
+                MessageBox.Show("Se han limpiado los datos correctamente", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

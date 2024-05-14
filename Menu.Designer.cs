@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             this.BtnVolver = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -40,7 +41,13 @@
             this.button2 = new System.Windows.Forms.Button();
             this.Btn1 = new System.Windows.Forms.Button();
             this.PanelBase = new System.Windows.Forms.Panel();
+            this.LblHora = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.LblFecha = new System.Windows.Forms.Label();
+            this.PanelDatos = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
+            this.PanelBase.SuspendLayout();
+            this.PanelDatos.SuspendLayout();
             this.SuspendLayout();
             // 
             // BtnVolver
@@ -159,6 +166,7 @@
             this.button3.Text = " Ordenamiento";
             this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button1
             // 
@@ -216,11 +224,50 @@
             this.PanelBase.BackColor = System.Drawing.Color.Black;
             this.PanelBase.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("PanelBase.BackgroundImage")));
             this.PanelBase.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PanelBase.Controls.Add(this.PanelDatos);
             this.PanelBase.ForeColor = System.Drawing.SystemColors.ControlText;
             this.PanelBase.Location = new System.Drawing.Point(216, -1);
             this.PanelBase.Name = "PanelBase";
             this.PanelBase.Size = new System.Drawing.Size(956, 709);
             this.PanelBase.TabIndex = 3;
+            this.PanelBase.Paint += new System.Windows.Forms.PaintEventHandler(this.PanelBase_Paint);
+            // 
+            // LblHora
+            // 
+            this.LblHora.AutoSize = true;
+            this.LblHora.BackColor = System.Drawing.Color.Transparent;
+            this.LblHora.Font = new System.Drawing.Font("Microsoft Tai Le", 49.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblHora.ForeColor = System.Drawing.Color.Black;
+            this.LblHora.Location = new System.Drawing.Point(18, 13);
+            this.LblHora.Name = "LblHora";
+            this.LblHora.Size = new System.Drawing.Size(238, 107);
+            this.LblHora.TabIndex = 0;
+            this.LblHora.Text = "Hora";
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // LblFecha
+            // 
+            this.LblFecha.AutoSize = true;
+            this.LblFecha.BackColor = System.Drawing.Color.Transparent;
+            this.LblFecha.Font = new System.Drawing.Font("Microsoft Tai Le", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblFecha.Location = new System.Drawing.Point(26, 140);
+            this.LblFecha.Name = "LblFecha";
+            this.LblFecha.Size = new System.Drawing.Size(150, 60);
+            this.LblFecha.TabIndex = 1;
+            this.LblFecha.Text = "Fecha";
+            // 
+            // PanelDatos
+            // 
+            this.PanelDatos.BackColor = System.Drawing.Color.Transparent;
+            this.PanelDatos.Controls.Add(this.LblHora);
+            this.PanelDatos.Controls.Add(this.LblFecha);
+            this.PanelDatos.Location = new System.Drawing.Point(8, 14);
+            this.PanelDatos.Name = "PanelDatos";
+            this.PanelDatos.Size = new System.Drawing.Size(936, 229);
+            this.PanelDatos.TabIndex = 10;
             // 
             // Menu
             // 
@@ -236,6 +283,9 @@
             this.Text = "Menu";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
+            this.PanelBase.ResumeLayout(false);
+            this.PanelDatos.ResumeLayout(false);
+            this.PanelDatos.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -253,6 +303,10 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label LblHora;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Label LblFecha;
+        private System.Windows.Forms.Panel PanelDatos;
     }
 }
 

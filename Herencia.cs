@@ -28,6 +28,7 @@ namespace PruebaPrograma
                 LegadoJuan.Text = "";
                 LegadoLuis.Text = "";
                 LegadoRosa.Text = "";
+                MessageBox.Show("Se han limpiado los datos correctamente", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 

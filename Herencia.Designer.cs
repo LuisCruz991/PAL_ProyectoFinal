@@ -201,6 +201,7 @@
             this.Controls.Add(this.LblEnunciado);
             this.Controls.Add(this.BtnCalcular);
             this.Controls.Add(this.BtnLimpiar);
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Herencia";

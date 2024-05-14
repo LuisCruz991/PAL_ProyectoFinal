@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\source\\repos\\PAL_ProyectoFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\reglakramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:reglakramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\reglakramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:reglakramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|C:\\source\\repos\\PAL_ProyectoFinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\orden_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:orden_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\orden_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:orden_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\angulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:angulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|c:\\source\\repos\\pal_proyectofinal\\angulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29819A19-EBE9-4EEE-A8AE-0D546FA6F43D}|PruebaPrograma.csproj|solutionrelative:angulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +71,156 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:01:12.166Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvysAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:51:42.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReglaKramer.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\ReglaKramer.cs",
+              "RelativeDocumentMoniker": "ReglaKramer.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\ReglaKramer.cs",
+              "RelativeToolTip": "ReglaKramer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEoAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:55:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReglaKramer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\ReglaKramer.cs",
+              "RelativeDocumentMoniker": "ReglaKramer.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\ReglaKramer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ReglaKramer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:55:46.038Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Angulos.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Angulos.cs",
+              "RelativeDocumentMoniker": "Angulos.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Angulos.cs",
+              "RelativeToolTip": "Angulos.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwE8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:55:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Angulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Angulos.cs",
+              "RelativeDocumentMoniker": "Angulos.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Angulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Angulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:55:24.316Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Herencia.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Herencia.cs",
+              "RelativeDocumentMoniker": "Herencia.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Herencia.cs",
+              "RelativeToolTip": "Herencia.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAlwB4AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:52:58.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orden_Num.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Orden_Num.cs",
+              "RelativeDocumentMoniker": "Orden_Num.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Orden_Num.cs",
+              "RelativeToolTip": "Orden_Num.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:30:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Banco.cs",
+              "RelativeToolTip": "Banco.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDsAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:41:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orden_Num.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Orden_Num.cs",
+              "RelativeDocumentMoniker": "Orden_Num.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Orden_Num.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Orden_Num.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:05:10.894Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Banco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Banco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Banco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:04:39.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Herencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Herencia.cs",
+              "RelativeDocumentMoniker": "Herencia.cs",
+              "ToolTip": "C:\\source\\repos\\PAL_ProyectoFinal\\Herencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Herencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:04:36.724Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\source\\repos\\PAL_ProyectoFinal\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
